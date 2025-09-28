@@ -1,0 +1,17 @@
+{
+  "name": "frameworks-gioi-thieu",
+  "version": "1.0.0",
+  "description": "Dự án giới thiệu các framework frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC"
+}

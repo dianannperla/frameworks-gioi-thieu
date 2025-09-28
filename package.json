@@ -1,6 +1,6 @@
 {
   "name": "frameworks-gioi-thieu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dự án giới thiệu các framework frontend",
   "main": "server.js",
   "scripts": {
